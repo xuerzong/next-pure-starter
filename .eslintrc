@@ -22,6 +22,9 @@
     "react",
     "@typescript-eslint"
   ],
+  "ignorePatterns": [
+    "next.config.js"
+  ],
   "rules": {
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off"
